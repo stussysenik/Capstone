@@ -2,7 +2,11 @@
   "name": "capstone",
   "version": "1.0.0",
   "description": "",
+<<<<<<< HEAD
   "main": "server.js",
+=======
+  "main": "index.js",
+>>>>>>> 312547374111f31164df6e4b7e876ccd4e46c189
   "dependencies": {
     "babel-install": "^2.1.0",
     "babel-loader": "^8.1.0",
